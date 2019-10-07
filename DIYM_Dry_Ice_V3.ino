@@ -7,7 +7,7 @@ This is an easy to build dry ice fog machine. It's controlled by an Arduino Nano
 
 More info: https://diymachines.co.uk/projects/bluetooth-controlled-dry-ice-machine.html
 
-3D printed parts can be downloaded from here: https://www.thingiverse.com/thing:
+3D printed parts can be downloaded from here: https://www.thingiverse.com/thing:3902329
 
 ==========
 
