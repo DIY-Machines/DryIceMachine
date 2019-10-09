@@ -9,6 +9,8 @@ More info: https://diymachines.co.uk/projects/bluetooth-controlled-dry-ice-machi
 
 3D printed parts can be downloaded from here: https://www.thingiverse.com/thing:3902329
 
+You will need to install the WS2812FX library which can be found here: https://github.com/kitesurfer1404/WS2812FX
+
 ==========
 
 
